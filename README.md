@@ -1,9 +1,8 @@
-## practice_ajax
-#practiced to update a simple web page asynchronously using Ajax.
-#fetched data from database file without reloading page.
+<h1>practice_ajax</h1>
+- practiced to fetched data from database file without reloading page.
 (fetch(), then(), response.text())
 
-Ajax (Asynchronous Javascript and XML)
-- able to update the content asynchronously.
-- imporve the speed and performance.
-- was developed by Microsoft outlook web applications in 1999.
+<h2>Ajax (Asynchronous Javascript and XML)</h2>
+<li>able to update the content asynchronously.</li>
+<li>imporve the speed and performance.</li>
+<li>was developed by Microsoft outlook web applications in 1999.</li>
