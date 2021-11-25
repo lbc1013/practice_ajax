@@ -4,5 +4,5 @@
 
 <h2>Ajax (Asynchronous Javascript and XML)</h2>
 <li>able to update the content asynchronously.</li>
-<li>imporve the speed and performance.</li>
+<li>imporves the speed and performance.</li>
 <li>was developed by Microsoft outlook web applications in 1999.</li>
