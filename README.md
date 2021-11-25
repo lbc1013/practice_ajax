@@ -1,5 +1,5 @@
 <h1>practice_ajax</h1>
-- practiced to fetched data from database file without reloading page.
+- practiced to fetch data from database file without reloading page.
 (fetch(), then(), response.text())
 
 <h2>Ajax (Asynchronous Javascript and XML)</h2>
